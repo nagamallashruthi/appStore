@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+
+  padding: 20px;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 30px;
+  color: #1e293b;
+  font-weight: bold;
+  text-align: center;
+}
+.body {
+  margin: 0px;
+}
+.search {
+  border: 1px solid #7b8794;
+  text-align: center;
+  font-family: 'roboto';
+  font-size: 15px;
+  color: #7b8794;
+  height: 40px;
+  width: 220px;
+}
+.img {
+  height: 20px;
+  width: 20px;
+}
+.s {
+  border: none;
+  background: transparent;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+}
+.app {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

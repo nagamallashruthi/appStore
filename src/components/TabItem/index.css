@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.btn {
+  border-bottom: 1px solid #7b8794;
+  background-color: #dfe2e5;
+  color: #7b8794;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.li {
+  display: flex;
+}
+.active-btn {
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+}
